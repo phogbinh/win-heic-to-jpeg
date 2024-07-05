@@ -8,8 +8,8 @@
 #include <windef.h> // WINdows DEFinitions
 #include <winerror.h> // WINdows ERROR
 
-#include <iostream>
 #include <cstdlib>
+#include <iostream>
 
 #define MAXIMUM_FILEPATH_LENGTH 32767
 #define MAXIMUM_THUMBNAIL_SIZE_PIXELS 2160
