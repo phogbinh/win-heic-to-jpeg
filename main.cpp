@@ -1,12 +1,12 @@
 #include <atlimage.h> // Active Template Library IMAGE
-#include <combaseapi.h> // Component Object Model BASE API
+#include <combaseapi.h> // Component Object Model BASE Application Programming Interface
 #include <gdiplusimaging.h> // Graphics Device Interface PLUS IMAGING
 #include <objbase.h> // OBJect BASE
 #include <shlguid.h> // SHelL Globally Unique IDentifier
 #include <shobjidl_core.h> // SHell OBJect Interface Definition Language CORE
 #include <thumbcache.h> // THUMBnail CACHE
 #include <windef.h> // WINdows DEFinitions
-#include <winerror.h> // WINdows Error
+#include <winerror.h> // WINdows ERROR
 
 #include <iostream>
 #include <cstdlib>
